@@ -1,0 +1,10 @@
+import time
+nome1 = input('insira nome ')
+nome2 = input('insira nome ')
+nome3 = input('insira nome ')
+time.sleep(5.0)
+print(nome1)
+time.sleep(5.0)
+print(nome2)
+time.sleep(5.0)
+print(nome3)
